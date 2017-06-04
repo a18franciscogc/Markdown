@@ -2,7 +2,7 @@
 
 Lenguaje de programación
 
-![Markdown](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
+![Markdown](http://enrico.spinielli.net/showandtell/images/markdown-logo.png)
 
 ## Indice
 * Definición
