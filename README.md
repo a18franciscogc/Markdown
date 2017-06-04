@@ -1,6 +1,6 @@
 # Markdown
 
-Lenguaje de programación
+Lenguaje de marcado
 
 ![Markdown](http://enrico.spinielli.net/showandtell/images/markdown-logo.png)
 
