@@ -89,7 +89,7 @@ Insertar tablas
 
 ## Enlaces de interés
 
-[soyinformatico](https://github.com/jfasebook)
-[Guía en español](https://markdown.es/)
-[Genbeta](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
+* [soyinformatico](https://github.com/jfasebook)
+* [Guía en español](https://markdown.es/)
+* [Genbeta](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo)
 
